@@ -1,0 +1,7 @@
+/vendor/
+/testmysql.php
+/info.txt
+/index.php
+/composer.lock
+/composer.phar
+/nbproject/
